@@ -10,3 +10,5 @@ Necessario installare jq: sudo apt update && sudo apt install jq.
 Date permessi di esecuzione allo script: chmod +x post_Instagram.sh
 
 Per lanciare lo script, digita : ./post_Instagram.sh
+
+Prima di lanciare il bot, ricordati di ottenere la tua API Key gratuita di Gemini su Google AI Studio e inserirla nel tuo file .env locale alla voce GEMINI_API_KEY.
